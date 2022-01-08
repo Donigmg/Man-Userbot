@@ -19,7 +19,7 @@ from userbot.events import register
 from userbot.utils import edit_or_reply, humanbytes, man_cmd
 
 absen = [
-    "**Hadir bang** 😁",
+    "**Hadir bang paul** 😁",
     "**Hadir kak** 😉",
     "**Hadir dong** 😁",
     "**Hadir ganteng** 🥵",
