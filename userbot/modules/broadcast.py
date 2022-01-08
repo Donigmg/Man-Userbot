@@ -36,7 +36,7 @@ async def catbroadcast_send(event):
         )
     chats = sql.get_chat_broadcastlist(keyword)
     catevent = await event.edit(
-        "**mengirim pesan ini ke semua grup dalam kategori**",
+        "**jangan keseringan gcast ya anjing norak**",
         parse_mode=parse_pre,
     )
     i = 0
